@@ -1,5 +1,4 @@
 # ColocQuant-ColocJ
-========================
 
 
 ColocQuant and ColocJ developed by the [Biomedical Computer Vision (BMCV) Group](http://www.bioquant.uni-heidelberg.de/research/groups/biomedical_computer_vision.html) at Heidelberg University.
